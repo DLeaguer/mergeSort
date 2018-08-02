@@ -1,0 +1,26 @@
+{
+  "name": "mergesort",
+  "version": "1.0.0",
+  "description": "mergeSort with npm test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DLeaguer/mergeSort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DLeaguer/mergeSort/issues"
+  },
+  "homepage": "https://github.com/DLeaguer/mergeSort#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
